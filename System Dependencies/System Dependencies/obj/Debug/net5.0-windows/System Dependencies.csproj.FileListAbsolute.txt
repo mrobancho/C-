@@ -1,0 +1,22 @@
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\bin\Debug\net5.0-windows\System Dependencies.exe
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\bin\Debug\net5.0-windows\System Dependencies.deps.json
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\bin\Debug\net5.0-windows\System Dependencies.runtimeconfig.json
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\bin\Debug\net5.0-windows\System Dependencies.runtimeconfig.dev.json
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\bin\Debug\net5.0-windows\System Dependencies.dll
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\bin\Debug\net5.0-windows\ref\System Dependencies.dll
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\bin\Debug\net5.0-windows\System Dependencies.pdb
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\obj\Debug\net5.0-windows\System Dependencies.csproj.AssemblyReference.cache
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\obj\Debug\net5.0-windows\System Dependencies_MarkupCompile.cache
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\obj\Debug\net5.0-windows\System Dependencies_MarkupCompile.lref
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\obj\Debug\net5.0-windows\System Dependencies.g.resources
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\obj\Debug\net5.0-windows\System Dependencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\obj\Debug\net5.0-windows\System Dependencies.AssemblyInfoInputs.cache
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\obj\Debug\net5.0-windows\System Dependencies.AssemblyInfo.cs
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\obj\Debug\net5.0-windows\System Dependencies.csproj.CoreCompileInputs.cache
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\obj\Debug\net5.0-windows\System Dependencies.dll
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\obj\Debug\net5.0-windows\ref\System Dependencies.dll
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\obj\Debug\net5.0-windows\System Dependencies.pdb
+C:\Users\ITM-004\source\repos\System Dependencies\System Dependencies\obj\Debug\net5.0-windows\System Dependencies.genruntimeconfig.cache
